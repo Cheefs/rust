@@ -1,5 +1,5 @@
 [package]
-name = "variables_and_ummutable"
+name = "data_structures"
 version = "0.1.0"
 authors = ["cheefs <cheefst@outlook.com>"]
 edition = "2018"
